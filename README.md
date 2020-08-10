@@ -15,4 +15,4 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
   - Reporting bugs
   - Finding uniqe CSS Selectors and xPaths
  ## Courses
-  -[JavaStart - Selenium] (https://javastart.pl/kurs/selenium)
+  - [JavaStart - Selenium](https://javastart.pl/kurs/selenium)
