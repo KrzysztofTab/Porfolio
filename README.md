@@ -6,7 +6,7 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
   - Jira - Issue tracking and project management tool for developers
   - Selenium - Open source record and playback test automation for the web
   - GitHub
- ## Tech skills
+## Tech skills
   - SQL
   - DevTools
   - SCRUM
@@ -14,5 +14,10 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
   - Creating test cases
   - Reporting bugs
   - Finding uniqe CSS Selectors and xPaths
- ## Courses
+## Courses
   - [JavaStart - Selenium](https://javastart.pl/kurs/selenium)
+## Books
+  - R.Smilgin - Zawód tester
+## Groups on Facebook
+  - Testowanie oprogramowania
+  - ISTQB -egzaminy, pytania, testy
