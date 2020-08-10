@@ -6,4 +6,13 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
   - Jira - Issue tracking and project management tool for developers
   - Selenium - Open source record and playback test automation for the web
   - GitHub
-  
+ ## Tech skills
+  - SQL
+  - DevTools
+  - SCRUM
+  - Software testing
+  - Creating test cases
+  - Reporting bugs
+  - Finding uniqe CSS Selectors and xPaths
+ ## Courses
+  -[JavaStart - Selenium] (https://javastart.pl/kurs/selenium)
