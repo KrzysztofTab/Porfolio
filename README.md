@@ -21,3 +21,7 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
 ## Groups on Facebook
   - Testowanie oprogramowania
   - ISTQB -egzaminy, pytania, testy
+## Recommended WWW
+  - [www.testerzy.pl](https://testerzy.pl/)
+  - [www.testpro.pl](http://testpro.pl/)
+  - [www.guru99.com](https://www.guru99.com/)
