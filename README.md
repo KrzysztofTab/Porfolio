@@ -4,6 +4,8 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
 ### [www.linkedin.com](https://www.linkedin.com/in/krzysztof-tabor-2941371a8/)
 ## Tools
   - Postman - Testing tool for REST API
+  - Test Rail
+  - Confluence
   - Jira - Issue tracking and project management tool for developers
   - Selenium - Open source record and playback test automation for the web
   - GitHub
