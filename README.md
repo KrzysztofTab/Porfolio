@@ -10,12 +10,12 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
   - Selenium - Open source record and playback test automation for the web
   - GitHub
 ## Tech skills
-  - SQL
-  - DevTools
-  - SCRUM
+  - **SQL** - Database
+  - SCRUM - Version control systems
   - Software testing
   - Creating test cases
   - Reporting bugs
+  - DevTools
   - Finding uniqe CSS Selectors and xPaths
 ## Courses
   - [JavaStart - Selenium](https://javastart.pl/kurs/selenium)
