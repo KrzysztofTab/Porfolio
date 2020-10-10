@@ -1,6 +1,7 @@
 # **Portfolio**
 ## About me
 My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm for new challenges as a Tester in the IT industry. I already have several years of experience in finding and analyzing anomalies occurring in a production plant in delivering elements from the warehouse to production. My goal is to develop test knowledge and technical skills in the field of testing. On this page, I would like to share all my experience gained during the course at Software Development Academy.
+### [Certificate](https://github.com/KrzysztofTab/Portfolio/blob/master/Certyfikat.pdf)
 ### [www.linkedin.com](https://www.linkedin.com/in/krzysztof-tabor-2941371a8/)
 ## Tools
   - Databases:  **MySQL**,
@@ -23,10 +24,12 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
 ## Groups on Facebook
   - Testowanie oprogramowania
   - ISTQB -egzaminy, pytania, testy
+## Events 2020 ( I participated in )
+  - „No Bullshit about…testing 2020. Konfrontacja!” - October 2020
 ## Recommended WWW
   - [www.testerzy.pl](https://testerzy.pl/)
   - [www.testpro.pl](http://testpro.pl/)
   - [www.guru99.com](https://www.guru99.com/)
 ## My test case examples
-  "W trakcie realizacji ..."
+  "In progress ..."
    [Portfolio test case](https://github.com/KrzysztofTab/Portfolio/blob/master/Portfolio.pdf)
