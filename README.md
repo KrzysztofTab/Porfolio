@@ -25,7 +25,7 @@ My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm 
   - Testowanie oprogramowania
   - ISTQB -egzaminy, pytania, testy
 ## Events 2020 ( I participated in )
-  - „No Bullshit about…testing 2020. Konfrontacja!” - October 2020
+  - [„No Bullshit about…testing 2020. Konfrontacja!”](https://github.com/KrzysztofTab/Portfolio/blob/master/Event.pdf) - October 2020
 ## Recommended WWW
   - [www.testerzy.pl](https://testerzy.pl/)
   - [www.testpro.pl](http://testpro.pl/)
