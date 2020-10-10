@@ -1,8 +1,8 @@
 # **Portfolio**
 ## About me
 My name is Krzysztof Tabor. I am a beginner, full of willingness and enthusiasm for new challenges as a Tester in the IT industry. I already have several years of experience in finding and analyzing anomalies occurring in a production plant in delivering elements from the warehouse to production. My goal is to develop test knowledge and technical skills in the field of testing. On this page, I would like to share all my experience gained during the course at Software Development Academy.
-### [www.linkedin.com](https://www.linkedin.com/in/krzysztof-tabor-2941371a8/)
 ### [Certificate](https://github.com/KrzysztofTab/Portfolio/blob/master/Certyfikat.pdf)
+### [www.linkedin.com](https://www.linkedin.com/in/krzysztof-tabor-2941371a8/)
 ## Tools
   - Databases:  **MySQL**,
   - Operating systems:  **Windows**, 
